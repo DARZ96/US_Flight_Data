@@ -5,3 +5,5 @@ frequently experience delays.
 
 A Kaggle dataset that tracks the on-time performance of 
 US domestic flights operated by large air carriers in 2015 was used to construct the report. 
+
+Link to Tableau report: https://public.tableau.com/profile/daniel.ricci6995#!/vizhome/flightsexcel/UdacityDataVisualizationProject-FlightDelaysCancellationsintheUS
